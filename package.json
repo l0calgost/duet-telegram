@@ -1,6 +1,6 @@
 {
   "name": "duet-telegram",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Telegram bot to control duet wifi controller",
   "main": "index.js",
   "bin": {
